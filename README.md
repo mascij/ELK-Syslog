@@ -11,5 +11,6 @@ A central server runs ElasticSearch & Kibana, FileBeat is used on external Linux
 
 ```sudo apt update
 
-sudo apt install apt-transport-https```
+sudo apt install apt-transport-https
+```
 
