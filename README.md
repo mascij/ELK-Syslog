@@ -4,7 +4,7 @@ Instructions for setting up a ELK stack & monitoring Syslog for auditing usage a
 
 A central server runs ElasticSearch & Kibana, FileBeat is used on external Linux instances to monitor host activity.
 
-![alt text](https://i.imgur.com/NJgvcvV.png)
+![alt text](https://i.imgur.com/p9p0fL9.png)
 
 ## Step-by-step guide
 
