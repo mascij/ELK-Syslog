@@ -104,6 +104,8 @@ sudo vi kibana.yml
 
 #### Add server port, server.host, and elasticsearch server information
 
+![alt text](https://i.imgur.com/8V911xg.jpg)
+
 #### Restart Service & Use Web Browser to Validate
 ```
 sudo service kibana restart
