@@ -6,8 +6,9 @@ A central server runs ElasticSearch & Kibana, FileBeat is used on external Linux
 
 ## Step-by-step guide
 
-####Start with a fresh Ubuntu 16.04 Install
-####Run:
+#### Start with a fresh Ubuntu 16.04 Install
+#### Run:
 
-`sudo apt update`
-`sudo apt install apt-transport-https`
+```sudo apt update
+sudo apt install apt-transport-https
+```
