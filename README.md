@@ -60,7 +60,7 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html
 `sudo vi /etc/elasticsearch/elasticsearch.yml`
 
 #### Set cluster name & network.host (to local IP):
-
+![alt text](https://i.imgur.com/iYIf4ol.png)
 
 #### Install Plugins for Syslog Monitoring for ElasticSearch
 
