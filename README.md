@@ -130,9 +130,13 @@ Next, install FileBeat on the Linux instance you would like to monitor
 
 `echo "deb https://artifacts.elastic.co/packages/6.x/apt stable main" | sudo tee -a /etc/apt/sources.list.d/elastic-6.x.list`
 
+#### Reload 
+
+source /etc/environment
+
 #### Install FileBeat with apt:
 
-`sudo apt update && apt install filebeat`
+`sudo apt update && sudo apt install filebeat`
 
 #### Edit Config:
 ```
